@@ -1,0 +1,25 @@
+body {
+    font-family: 'Lateef', serif;
+    background: linear-gradient(#FFEDFA,#E195AB);
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px #de3162;
+}
+
+.gif img {
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
